@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science student from India passionate about Web Development and Programming.</h3>
 
 - 🔭 I’m currently working on **Expense Tracker**
-
+- An Intern at **Infosys** worked on **Python Parallel Text Handling Processor**
 - 🌱 I’m currently learning **MERN Stack,Python and Data Structures & Algorithms**
 
 - 👯 I’m looking to collaborate on **Beginner-friendly Web Development Projects**
